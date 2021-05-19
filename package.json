@@ -1,9 +1,9 @@
 {
-        "name": "python-flask-template1",
+        "name": "python-flask-template",
         "description": "Python-Flask-Template-Project",
         "repository":{
                 "type":"git",
-                "url":"https://github.com/blackieaka007/python-flask-template1"
+                "url":"https://github.com/blackieaka007/python-flask-template"
         },
         "author": "Blackie007 email: devilgamingyt1234@gmail.com",
         "engines": {
